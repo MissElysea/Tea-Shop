@@ -1,0 +1,135 @@
+
+/*Background*/
+
+body {
+    background-color: black;
+    color: seashell;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.9;
+}
+
+/*Logo*/
+
+
+/*Header*/
+
+ header {
+    border-bottom: 1px solid seashell;
+ }
+
+
+li {
+    text-decoration: underline;
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.nav {
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+
+/*Mission*/
+
+#container {
+    width: 1200px;
+    height: 69px;
+    margin: auto;
+ }
+ 
+#container img {
+    width: 100%;
+ }
+
+ .box {
+    display: inline-block;
+    background-color: black;
+    margin-top: 250px;
+    width: 1250px;
+    text-align: center;
+ }
+
+
+ /*Tea of The Month*/
+
+ #containertwo {
+    display: flex;
+    margin-top: 350px;
+    text-align: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+ }
+
+ .resize {
+    width: 300px;
+    margin: auto;
+ }
+
+ /*Locations*/
+
+ .locations {
+    text-align: center;
+ }
+
+ #containerthree {
+    width: 1200px;
+    height: 69px;
+    margin: auto;
+ }
+ 
+#containerthree img {
+    width: 100%;
+ }
+
+ .boxtwo {
+    display: inline-block;
+    background-color: black;
+    margin-top: 15px;
+    width: 300px;
+    text-align: center;
+    margin-left: 160px;
+    opacity: 1;
+ }
+
+ 
+ .boxthree {
+    display: inline-block;
+    background-color: black;
+    margin-top: 15px;
+    width: 300px;
+    text-align: center;
+    opacity: 1;
+ }
+
+ 
+ .boxfour {
+    display: inline-block;
+    background-color: black;
+    margin-top: 15px;
+    width: 300px;
+    text-align: center;
+    opacity: 1;
+ }
+
+ /*The Tea Cozy*/
+
+ .boxfive {
+    margin-top: 420px;
+    text-align: center;
+ }
+
+ /*Copyright*/
+
+ .boxsix {
+    margin-top: 150px;
+ }
+
+
+
+
+
+
